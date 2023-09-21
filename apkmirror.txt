@@ -1,0 +1,4 @@
+!! ApkMirror
+! Remove pay-popup & promoted banner
+www.apkmirror.com###bottom-slider
+www.apkmirror.com##.promotedAppListing.appRow

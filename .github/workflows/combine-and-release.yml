@@ -1,0 +1,28 @@
+name: Combine and Release Text Files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Build - Combine TXT Files
+        run: cat *.txt > uBlockOrigin-FilterZ.txt
+      - name: Test
+        run: cat uBlockOrigin-FilterZ.txt
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+        with:
+          tag_name: latest
+          name: Latest Filters
+          files: uBlockOrigin-FilterZ.txt 
+          draft: false
+          prerelease: false

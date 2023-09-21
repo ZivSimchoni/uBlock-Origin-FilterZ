@@ -1,0 +1,13 @@
+!! Amazon
+! Hide Amazon-devices
+amazon.*###search h2 span:has-text(/\bEcho (Dot|Show|Studio|Sub|Buds|Auto|Flex)\b/):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(/\bEcho (Dot|Show|Studio|Sub|Buds|Auto|Flex)\b/):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(/\bEcho \(4\w+/):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(/\bEcho \(4\w+/):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(/\bKindle\b/):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(/\bKindle\b/):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+amazon.*###search h2 span:has-text(/\bFire TV (Stick|Cube)\b/):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(/\bFire TV (Stick|Cube)\b/):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])
+! Hide Amazon-basics devices
+amazon.*###search h2 span:has-text(/\bAmazon Basics\b/):upward(div.s-result-item)
+amazon.*##div.deals-react-app div[class^=DealContent]:has-text(/\bAmazon Basics\b/):upward(div[class^=DealGridItem-module__dealItemDisplayGrid])

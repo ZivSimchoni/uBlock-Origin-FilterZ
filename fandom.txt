@@ -1,0 +1,17 @@
+!Fandom - Wiki pages interface cleanups
+fandom.com##.global-navigation
+fandom.com##.main-container:style(width: 100% !important; margin-left: auto !important; margin-right: auto !important;)
+fandom.com##.fandom-community-header__background:style(width: 100% !important)
+fandom.com##.fandom-sticky-header:style(left: 0 !important;)
+fandom.com##.search-modal::before:style(left: 0 !important;)
+fandom.com##body:style(border-left: none !important;)
+fandom.com##.notifications-placeholder
+fandom.com###WikiaBar
+fandom.com##.global-footer
+fandom.com###mixed-content-footer
+fandom.com##.page__right-rail
+fandom.com##.explore-menu.wds-dropdown
+fandom.com##.highlight__sticky-container
+fandom.com##.search-seeding
+fandom.com##.page-side-tool.page-side-edit
+fandom.com##.mw-editsection
