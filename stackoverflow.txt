@@ -62,3 +62,5 @@ stackoverflow.com,stackexchange.com,askubuntu.com,stackapps.com,mathoverflow.net
 stackoverflow.com,stackexchange.com,askubuntu.com,stackapps.com,mathoverflow.net,superuser.com,serverfault.com##.s-post-summary--meta > .s-post-summary--meta-tags > .js-community-tag.subcommunity-avatar
 ! Christmas promotion
 stackoverflow.com,stackexchange.com,askubuntu.com,stackapps.com,mathoverflow.net,superuser.com,serverfault.com##.js-winterbash
+! Remove "AI- Search" popup
+stackoverflow.com###js-ai-search-alpha-popover
