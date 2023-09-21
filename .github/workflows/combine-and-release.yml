@@ -14,6 +14,9 @@ jobs:
         uses: actions/checkout@v3
       - name: Build - Combine TXT Files
         run: cat *.txt > uBlockOrigin-FilterZ.txt
+      - name: Set Release Name/Tag
+        id: set_release_name
+        run: echo "RELEASE_TAG=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - name: Test
         run: cat uBlockOrigin-FilterZ.txt
       - name: Release
@@ -21,8 +24,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
         with:
-          tag_name: latest
-          name: Latest Filters
+          name: "Release ${{ env.RELEASE_TAG }}"
+          tag_name: ${{ env.RELEASE_TAG }}
+          generate_release_notes: true
           files: uBlockOrigin-FilterZ.txt 
           draft: false
           prerelease: false
+      - name: Release URL
+        run: |
+          echo "Release URL: ${{ steps.create_release.outputs.upload_url }}"
