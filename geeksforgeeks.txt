@@ -1,6 +1,5 @@
 !! GeeksForGeeks
 ! GFG "Whats New" section
 www.geeksforgeeks.org##.whats-new-section
-
 ! GFG Coockie Consent
 www.geeksforgeeks.org##.show-consent.hide-consent.cookie-consent

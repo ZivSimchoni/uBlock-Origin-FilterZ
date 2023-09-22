@@ -1,9 +1,7 @@
 ! aniwave.to Remove banner for movies site
 aniwave.to##.text-center.mb-4
-
 ! AniWave remove comments & Recomended at bottom
 aniwave.to###watch-second > .watch-container.container
 aniwave.to###comments
-
 ! AniWave Remove Href bar
 aniwave.to##.justify-content-between.d-flex.end
