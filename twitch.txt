@@ -1,0 +1,9 @@
+!! Twitch
+! Remove "Prime","Bits", "Ad-Free", "Subscribe", "Hype" buttons & promotion banner under the stream
+www.twitch.tv##.hlUCBd.hZACqf.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.dtleLI.Layout-sc-1xcs6mc-0
+www.twitch.tv##.top-nav__prime.bFqPcI.Layout-sc-1xcs6mc-0
+www.twitch.tv##.stQbR.Layout-sc-1xcs6mc-0 > .cClrQk.ScButtonIcon-sc-9yap0r-0.hZACqf.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.hqSJnN.Layout-sc-1xcs6mc-0 > .cClrQk.ScButtonIcon-sc-9yap0r-0.hZACqf.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.hdIVkw.Layout-sc-1xcs6mc-0
+www.twitch.tv##.channel-info-content > div > div > .itnkhV.Layout-sc-1xcs6mc-0
