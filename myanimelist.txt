@@ -1,0 +1,19 @@
+!! MAL
+! MAL Home page Remove: "Discussions", "Fetured", "Reviews", "Announcements", "Footer"
+myanimelist.net###footer-block
+myanimelist.net##.left.announcements.widget
+myanimelist.net##.left.reviews.widget
+myanimelist.net##.left.featured.widget
+myanimelist.net##.left.anime_discussions.widget
+myanimelist.net##.left.mxj.widget
+myanimelist.net##.pb24 > .widget-content
+! MAL Remove "Hide Ads"
+myanimelist.net##.ga-impression.ga-click.btn-mal-service
+! MAL Remove "Forum" section inside anime page
+myanimelist.net##.pb24 > .border_top
+myanimelist.net##.page-forum
+myanimelist.net##h2:nth-of-type(6)
+myanimelist.net##div:nth-of-type(16) > div
+! MAL Remove Banner
+myanimelist.net##.header-mini-banner.banner-header-anime-straming
+myanimelist.net##.ga-impression.ga-click.text-ribbon-22.text-ribbon
