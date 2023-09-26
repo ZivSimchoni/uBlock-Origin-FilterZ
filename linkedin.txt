@@ -5,6 +5,8 @@ www.linkedin.com##.global-nav__app-launcher-trigger.pl3.global-nav__primary-item
 ! Hide LinkedIn feed only in the feed pages
 !www.linkedin.com##.scaffold-finite-scroll--infinite.scaffold-finite-scroll:matches-path(/feed)
 !www.linkedin.com##.feed-sort-toggle-dsa__wrapper:matches-path(/feed)
+! Hide LinkedIn "Try Premium" card above start a post
+www.linkedin.com##.mb2.artdeco-card.launchpad-v2
 ! Hide LinkedIn recommended
 www.linkedin.com##.scaffold-layout__aside[aria-label="Add to your feed"]
 ! Hide LinkedIn chat messages overlay
