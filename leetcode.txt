@@ -1,0 +1,3 @@
+!! LeetCode
+! LeetCode - Remove "subscribe" button
+leetcode.com##[href^="/subscribe/"]
