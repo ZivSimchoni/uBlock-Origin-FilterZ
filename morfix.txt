@@ -1,0 +1,9 @@
+!! Morfix
+! Morfix Premium Ad mid content
+www.morfix.co.il##.PremiumPromotionInner
+! Morfix Premium Ad popup
+www.morfix.co.il##.wotd_card.hover_shadow.OpenContainer.PremiumPromotionSlideContainer
+! Morfix AD Sidebar
+www.morfix.co.il###Advertisement_div
+! Morfix Top navbar premium button
+www.morfix.co.il###Purchase_menu
