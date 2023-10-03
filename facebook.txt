@@ -5,7 +5,7 @@ www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-ty
 ! Remove Stories
 www.facebook.com##.x1g2khh7.x1n2onr6
 ! FB Remove Floating Messenger sidebar
-www.facebook.com##.xc8icb0.x78zum5.xuk3077
+!www.facebook.com##.xc8icb0.x78zum5.xuk3077
 ! FB Remove Gaming tab
 www.facebook.com##.x9e5oc1.x1i64zmx.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2
 ! FB Remove Video tab
