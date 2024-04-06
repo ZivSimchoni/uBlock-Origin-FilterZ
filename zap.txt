@@ -1,0 +1,3 @@
+!! Zap - Hide Ads
+www.zap.co.il##.no-ship.shipping.BidsContainer
+www.zap.co.il##div.bid-row
