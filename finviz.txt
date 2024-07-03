@@ -1,0 +1,6 @@
+!! Finviz
+finviz.com###banner_position
+finviz.com##div[class^=elite-header]
+finviz.com##div[class^=elite-subscription]
+finviz.com##.my-3
+finviz.com##.is-elite.nav-link
