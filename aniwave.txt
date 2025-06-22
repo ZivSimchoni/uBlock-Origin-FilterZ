@@ -1,3 +1,4 @@
+!! AniWave
 ! aniwave.to Remove banner for movies site
 aniwave.to##.text-center.mb-4
 ! AniWave remove comments & Recomended at bottom
