@@ -1,5 +1,5 @@
 !! MAL
-! MAL Home page Remove: "Discussions", "Fetured", "Reviews", "Announcements", "Footer"
+! MAL Home page Remove: "Discussions", "Featured", "Reviews", "Announcements", "Footer"
 myanimelist.net###footer-block
 myanimelist.net##.left.announcements.widget
 myanimelist.net##.left.reviews.widget
