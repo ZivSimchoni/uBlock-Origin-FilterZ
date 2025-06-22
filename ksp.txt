@@ -1,0 +1,9 @@
+!! KSP
+! Hide AD banner mid screen
+ksp.co.il##.MuiContainer-root
+! Hide annoying footer banner & Footer
+ksp.co.il##[class*="root-0-3-121"]
+! Hide AD banner home page
+ksp.co.il##[class*="carouselWrapper"]
+! Accessibility Button
+ksp.co.il##.MuiButtonBase-root.MuiFab-root.MuiFab-circular.MuiFab-sizeLarge.MuiFab-secondary.muirtl-14vdm3q
